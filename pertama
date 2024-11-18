@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jadwal Kelas</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Jadwal Kelas 24 B</h1>
+      <img src="logo unimed.jpg" alt="Logo Kelas" class="logo">
+    </header>
+
+    <section class="schedule">
+      <table>
+        <thead>
+          <tr>
+            <th>Hari</th>
+            <th>Waktu</th>
+            <th>Mata Kuliah</th>
+            <th>Tempat</th>
+            <th>Dosen</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Senin</td>
+            <td>08:00 - 10:00</td>
+            <td>Matematika</td>
+            <td>Ruang A</td>
+            <td>Dr. Budi</td>
+          </tr>
+          <tr>
+            <td>  </td>
+            <td> 10:00 - 11:20</td>
+            <td> bahasa indonesia</td>
+            <td> Ruang A</td>
+            <td> jonatan,S.kom</td>
+          </tr>
+          
+          <!-- Tambahkan jadwal lainnya sesuai kebutuhan -->
+        </tbody>
+      </table>
+    </section>
+  </div>
+</body>
+</html>
